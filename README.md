@@ -26,10 +26,10 @@ now launch as admin
 
 
 and now
-![Screenshot_4](https://user-images.githubusercontent.com/127637860/224557470-09a75e42-ab42-4fc1-af95-648b47510f8b.png)
+![Screenshot_4](https://user-images.githubusercontent.com/127637860/224557470-09a75e42-ab42-4fc1-af95-648b47510f8b.png) it work!!!
 
 
-it work!!!
+
 
 
 
