@@ -13,7 +13,7 @@ this is how it look
  
  
  
- 3- now it says
+ 3- now it's says
  ![Screenshot_2](https://user-images.githubusercontent.com/127637860/224557424-80012dde-8ca4-4007-b4f8-116479042de1.png)
  
  
