@@ -2,7 +2,7 @@
 A simple ways to ping you're conection
 
 
-this is how ti look
+this is how it look
 
 now im conected![Screenshot_5](https://user-images.githubusercontent.com/127637860/224557396-ca2b740e-80fa-4724-a40d-a1f6158b0b56.png)
  
